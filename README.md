@@ -1,4 +1,4 @@
-# Not yet functional for BitcoinZ - Work in progress. 
+# Beta Testing - Work in progress.
 
-# paperwallet.btcz.rocks
+# paper.btcz.rocks
 JavaScript Client-Side BitcoinZ Paper Wallet Generator using [zclassicjs library](https://github.com/BTCP-community/zclassicjs) based on [zenaddress](https://github.com/ZencashOfficial/zenaddress)
