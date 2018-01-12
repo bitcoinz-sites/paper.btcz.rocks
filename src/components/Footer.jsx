@@ -56,7 +56,7 @@ export default class Footer extends Component {
                 </div>
                 <div>
                 <p className="footerCopyright">
-                    <a href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks" target="_blank">JavaScript Client-Side BitcoinZ Wallet Generator</a>
+                    <a href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks" target="_blank" rel="noopener noreferrer">JavaScript Client-Side BitcoinZ Wallet Generator</a>
                 </p>
                 </div>
             </Grid>

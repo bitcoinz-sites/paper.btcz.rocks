@@ -15,7 +15,7 @@ export default class Header extends Component {
                 </Navbar.Header>
                 <Nav pullRight>
                     <NavItem href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks" target="_blank" className="nav-item headerLeftOption">Source</NavItem>
-                    <NavItem href="https://explorer.btcz.rocks" className="nav-item headerLeftOption">Explorer</NavItem>
+                    <NavItem href="https://explorer.btcz.rocks" target="_blank" className="nav-item headerLeftOption">Explorer</NavItem>
                 </Nav>
             </Navbar>
         );

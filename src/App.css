@@ -134,6 +134,7 @@ a:hover{
 }
 .btczTabsWrap > ul > li{
     display: inline-block;
+    float: none;
     width: auto;
     padding-bottom: 10px;
 }
