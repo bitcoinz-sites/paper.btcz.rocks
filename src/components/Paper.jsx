@@ -115,8 +115,13 @@ class Paper extends Component {
                           These kind of wallets are vulnerable to loss and theft. You should keep it safe like jewels or cash. Therefore it is recommended either to have a backup or to generate it only for a temporary use.
                         </p>
                         <p>
-                          <b>Image Quality:</b> print this wallet with Chrome for a better quality.
+                          <b>Special Print Instructions:</b>
                         </p>
+                        <ul>
+                        <li><b>1)</b> Must use Google Chrome</li>
+                        <li><b>2)</b> Set to landscape </li>
+                        <li><b>3)</b> Set to print pages 2,3</li>
+                        </ul>     
                     </Col>
                 </Row>
             </Col>
