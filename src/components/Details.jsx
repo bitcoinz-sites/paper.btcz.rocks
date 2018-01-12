@@ -194,7 +194,7 @@ class Details extends Component {
                             Entering your private key here allows you to view your BitcoinZ Address and print your wallet if you wish.
                         </p>
                         <p>
-                            <b>Warning: make sure you are on PAPERWALLET.BTCZ.ROCKS !</b>
+                            <b>Warning: make sure you are on PAPER.BTCZ.ROCKS !</b>
                         </p>
                         <p>
                             Your private key is a sensitive element. Whomever knows it can manage your funds. If you enter your private key into some website, double-check the URL to avoid phishing attempts.
