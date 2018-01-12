@@ -23,7 +23,7 @@ export default class Footer extends Component {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks">
+                                <a href="https://github.com/bitcoinz-sites/paper.btcz.rocks">
                                     <img src={github} alt="github"/>
                                 </a>
                             </li>
@@ -58,6 +58,7 @@ export default class Footer extends Component {
                 <p className="footerCopyright">
                     <a href="https://github.com/bitcoinz-sites/paper.btcz.rocks" target="_blank" rel="noopener noreferrer">JavaScript Client-Side BitcoinZ Wallet Generator</a>
                 </p>
+                <div className="text-center"><h3><span className="label label-danger text-center">Beta</span></h3></div>
                 </div>
             </Grid>
         );
