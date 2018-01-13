@@ -121,7 +121,7 @@ class Paper extends Component {
                         <li><b>1)</b> Must use Google Chrome</li>
                         <li><b>2)</b> Set to landscape </li>
                         <li><b>3)</b> Set to print pages 2,3</li>
-                        </ul>     
+                        </ul>
                     </Col>
                 </Row>
             </Col>
