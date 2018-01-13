@@ -157,10 +157,10 @@ class Single extends Component {
                             <b>Check your balance</b> by entering your BTCZ address on one of these explorers :
                         </p>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://explorer.btcz.rocks/" target="_blank">https://explorer.btcz.rocks</a></li>
+                            <li><a href="https://explorer.btcz.rocks/" target="_blank" rel="noopener noreferrer">https://explorer.btcz.rocks</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://btczexplorer.blockhub.info" target="_blank">https://btczexplorer.blockhub.info</a></li>
+                            <li><a href="https://btczexplorer.blockhub.info" target="_blank" rel="noopener noreferrer">https://btczexplorer.blockhub.info</a></li>
                         </ul>
                         <p>
                             <b>To spend your BTCZ</b> you can download the <a href='https://github.com/bitcoinz-pod/bitcoinz-wallet/releases'>BitcoinZ Swing Wallet</a> and import your private key to the p2p client wallet.
