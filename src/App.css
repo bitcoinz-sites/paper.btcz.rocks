@@ -478,7 +478,7 @@ hr{
         position: relative;
         display: block;
         left: 33%;
-        top: 21%;
+        top: 22.2%;
     }
     #art-area>#addr-QR>svg {
         width: 12vw !important;
@@ -488,8 +488,8 @@ hr{
     #art-area>#wif-QR {
         position: relative;
         display: block;
-        left: -36.5%;
-        top: 11%;
+        left: -36.1%;
+        top: 13.5%;
     }
     #art-area>#wif-QR>svg {
         width: 11vw !important;
@@ -499,16 +499,16 @@ hr{
     #art-area>#addr-str1 {
         position: relative;
         display: block;
-        left: 28.65%;
-        top: 24.3%;
-        font-size: 1.1vw;
+        left: 29.65%;
+        top: 26.1%;
+        font-size: 1.5vw;
     }
     #art-area>#addr-str2 {
         position: relative;
         display: block;
-        left: 28.65%;
-        top: 7%;
-        font-size: 1.1vw;
+        left: 29.65%;
+        top: 8.7%;
+        font-size: 1.5vw;
         -webkit-transform: rotate(-180deg) !important;
         -moz-transform: rotate(-180deg) !important;
         -o-transform: rotate(-180deg) !important;
@@ -520,15 +520,15 @@ hr{
         position: relative;
         display: block;
         left: -27.1%;
-        top: 12.55%;
-        font-size: 0.76vw;
+        top: 16.10%;
+        font-size: 1.0vw;
     }
     #art-area>#wif-str2 {
         position: relative;
         display: block;
         left: -27.1%;
-        top: 0%;
-        font-size: 0.76vw;
+        top: 3.3%;
+        font-size: 1.0vw;
         -webkit-transform: rotate(-180deg) !important;
         -moz-transform: rotate(-180deg) !important;
         -o-transform: rotate(-180deg) !important;
@@ -536,32 +536,13 @@ hr{
         transform: rotate(-180deg) !important;
     }
 
-    #art-area>#wif-str1 {
-        position: relative;
-        display: block;
-        left: -27.1%;
-        top: 12.55%;
-        font-size: 0.76vw;
-    }
-    #art-area>#wif-str2 {
-        position: relative;
-        display: block;
-        left: -27.1%;
-        top: 0%;
-        font-size: 0.76vw;
-        -webkit-transform: rotate(-180deg) !important;
-        -moz-transform: rotate(-180deg) !important;
-        -o-transform: rotate(-180deg) !important;
-        -ms-transform: rotate(-180deg) !important;
-        transform: rotate(-180deg) !important;
-    }
 
     @-moz-document url-prefix() {
         #art-area>#addr-QR {
             position: relative;
             display: block;
-            left: 31%;
-            top: 42%;
+            left: 33%;
+            top: 44.2%;
         }
         #art-area>#addr-QR>svg {
             width: 12vw !important;
@@ -571,8 +552,8 @@ hr{
         #art-area>#wif-QR {
             position: relative;
             display: block;
-            left: -36.5%;
-            top: 21.5%;
+            left: -36.1%;
+            top: 26.8%;
         }
         #art-area>#wif-QR>svg {
             width: 11vw !important;
@@ -582,16 +563,16 @@ hr{
         #art-area>#addr-str1 {
             position: relative;
             display: block;
-            left: 28%;
-            top: 48.4%;
-            font-size: 1.1vw;
+            left: 30.0%;
+            top: 52.0%;
+            font-size: 1.5vw;
         }
         #art-area>#addr-str2 {
             position: relative;
             display: block;
-            left: 28%;
-            top: 13.5%;
-            font-size: 1.1vw;
+            left: 30.0%;
+            top: 17.5%;
+            font-size: 1.5vw;
             -webkit-transform: rotate(-180deg) !important;
             -moz-transform: rotate(-180deg) !important;
             -o-transform: rotate(-180deg) !important;
@@ -602,16 +583,16 @@ hr{
         #art-area>#wif-str1 {
             position: relative;
             display: block;
-            left: -27.25%;
-            top: 24.22%;
-            font-size: 0.77vw;
+            left: -27.40%;
+            top: 32.28%;
+            font-size: 1.1vw;
         }
         #art-area>#wif-str2 {
             position: relative;
             display: block;
             left: -27.25%;
-            top: -1%;
-            font-size: 0.77vw;
+            top: 6%;
+            font-size: 1.1vw;
             -webkit-transform: rotate(-180deg) !important;
             -moz-transform: rotate(-180deg) !important;
             -o-transform: rotate(-180deg) !important;
