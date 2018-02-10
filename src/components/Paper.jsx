@@ -118,9 +118,9 @@ class Paper extends Component {
                           <b>Special Print Instructions:</b>
                         </p>
                         <ul>
-                        <li><b>1)</b> Must use Google Chrome</li>
+                        <li><b>1)</b> Must use Google Chrome / Firefox</li>
                         <li><b>2)</b> Set to landscape </li>
-                        <li><b>3)</b> Set to print pages 2,3</li>
+                        <li><b>3)</b> Set to print pages 1,2</li>
                         </ul>
                     </Col>
                 </Row>
